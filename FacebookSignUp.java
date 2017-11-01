@@ -50,7 +50,7 @@ public class FacebookSignUp {
 		//driver.findElement(By.id("u_0_12")).click();
 		
 		Thread.sleep(3000);
-		System.out.println("facebook SignUp Successful");
+		System.out.println("===================Facebook SignUp Successful===================");
 		driver.close();
 		
 
