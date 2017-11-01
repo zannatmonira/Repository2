@@ -46,7 +46,7 @@ public class FacebookSignUp {
 		
 		yearSelect.selectByVisibleText("1998");
 		
-		driver.findElement(By.id("u_0_6")).click();
+		//driver.findElement(By.id("u_0_6")).click();
 		//driver.findElement(By.id("u_0_12")).click();
 		
 		Thread.sleep(3000);
